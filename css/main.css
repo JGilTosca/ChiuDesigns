@@ -550,7 +550,7 @@ main {
 }
 
 /* RESPONSIVE DESIGN */
-@media(max-width:768px) {
+@media(max-width:1200px) {
 
     /* ===== HEADER ===== */
     /* LOGOTIPO */
@@ -578,7 +578,6 @@ main {
         background-repeat: no-repeat;
         position: fixed;
         top: -180%;
-        ;
         width: 100%;
         /* height: calc(100% - 80px); */
         height: 100%;
