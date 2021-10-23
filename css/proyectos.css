@@ -536,7 +536,7 @@ hr {
     
 
     /* ===== FOOTER ===== */
-    .footer-container {
+    /* .footer-container {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
@@ -556,5 +556,5 @@ hr {
 
     .footer__item:nth-child(3) {
         width: 100%;
-    }
+    } */
 }
